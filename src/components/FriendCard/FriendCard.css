@@ -1,0 +1,31 @@
+.card {
+    /* background: #fff;
+    border-radius: 2px;
+    width: 170px;
+    height: 170px;
+    margin: 2rem;
+    position: relative;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    overflow: hidden;
+    text-align: center; */
+    background-size: cover;
+    background-position: 50%;
+    background: #6CADDC;
+    height: 170px;
+    width: 170px;
+    margin: 8px 25px;
+    border: 5px solid #f1f1f1;
+    border-radius: 3px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, .16),
+    0 3px 6px rgba(0, 0, 0, .23);
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+}
+
+.card>img {
+    width: 60%;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}

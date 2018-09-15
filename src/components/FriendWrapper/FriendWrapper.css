@@ -1,0 +1,30 @@
+.wrapper {
+    /* background: rgb(224, 224, 224); */
+    background: rgb(32, 32, 32);
+    height: 100%;
+    padding: 50px 50px 60px;
+}
+
+.friend-div {
+    width: 40%;
+    margin: auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: hidden;
+}
+
+@media (min-width: 1100px) {
+    .friend-div {
+        padding-left: 100px;
+        padding-right: 100px;
+        width: 900px;
+    }
+}
+
+@media (max-width: 480px) {
+    .friend-div {
+        width: 80%;
+    }
+}

@@ -1,0 +1,27 @@
+.message {
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.correct {
+  animation: 1s correct;
+  animation-iteration-count: 1;
+}
+
+.incorrect {
+  animation: 1s incorrect;
+  animation-iteration-count: 1;
+}
+
+@keyframes correct {
+  0%    { background-color: none; }
+  50%   { background-color: #16d887; }
+  100%  { background-color: none; }
+}
+
+@keyframes incorrect {
+  0%    { background-color: none; }
+  50%   { background-color: #db1313; }
+  100%  { background-color: none; }
+}

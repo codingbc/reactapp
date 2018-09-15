@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Mr. Krupp",
+        "image": "https://vignette.wikia.nocookie.net/captainunderpants/images/d/db/Mr_Krupp.png/revision/latest?cb=20170502024715"
+    },
+    {
+        "id": 2,
+        "name": "Harold Hutchins",
+        "image": "https://vignette.wikia.nocookie.net/captainunderpants/images/7/75/Harold.png/revision/latest?cb=20170218200518"
+    },
+    {
+        "id": 3,
+        "name": "George Beard",
+        "image": "https://vignette.wikia.nocookie.net/captainunderpants/images/a/ab/George_Beard.png/revision/latest?cb=20170219215558"
+    },
+    {
+        "id": 4,
+        "name": "Professor Poopypants",
+        "image": "https://vignette.wikia.nocookie.net/captainunderpants/images/0/04/IMG_1028.PNG/revision/latest?cb=20170905093522"
+    },
+    {
+        "id": 5,
+        "name": "Captain Underpants",
+        "image": "https://vignette.wikia.nocookie.net/captainunderpants/images/d/df/Captain_underpants_flying.png/revision/latest?cb=20170218200414"
+    },
+    {
+        "id": 6,
+        "name": "Melvin Sneedly",
+        "image": "https://vignette.wikia.nocookie.net/dreamworks/images/3/34/Melvin_captain_underpants_movie.png/revision/latest?cb=20170616151736"
+    },
+    {
+        "id": 7,
+        "name": "Edith the Lunch Lady",
+        "image": "https://vignette.wikia.nocookie.net/dreamworks/images/1/19/LNCHLDy1.PNG/revision/latest?cb=20170706070136"
+    },
+    {
+        "id": 8,
+        "name": "Turbo Toilet 2000",
+        "image": "https://image.ibb.co/iv32Xc/Tt2000.png"
+    },
+    {
+        "id": 9,
+        "name": "Dog Man",
+        "image": "https://vignette.wikia.nocookie.net/captainunderpants/images/6/68/Planet-pilkey-image-dogman-02.png/revision/latest?cb=20180214014029"
+    }
+]
